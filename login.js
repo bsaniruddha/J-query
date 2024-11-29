@@ -94,7 +94,7 @@ button.on('click',(e)=>{
             heading1.css("display", "block");
             heading1.text("Login Successfully");
             setTimeout(() => {
-                window.location.href = "index.html";
+                window.location.href = "h1.html";
             }, 5000);
         } else {
             // alert("Register");
